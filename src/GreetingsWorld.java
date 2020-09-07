@@ -3,5 +3,7 @@ public class GreetingsWorld {
         System.out.println("Hello Marina Sergeevna");
         System.out.println("I'm so proud of this community!");
         System.out.println("third line");
+        int x =5*8;
+        System.out.println(x);
     }
 }
