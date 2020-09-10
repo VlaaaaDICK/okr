@@ -6,5 +6,6 @@ public class GreetingsWorld {
         int x =5*8;
         System.out.println(x);
         int y=11;
+        System.out.println(x*y);
     }
 }
