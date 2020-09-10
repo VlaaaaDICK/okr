@@ -5,5 +5,6 @@ public class GreetingsWorld {
         System.out.println("third line");
         int x =5*8;
         System.out.println(x);
+        int y=11;
     }
 }
