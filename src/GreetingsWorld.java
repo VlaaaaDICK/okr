@@ -8,5 +8,7 @@ public class GreetingsWorld {
         System.out.println("smth");
 	    int smth = 0;
 	int anything = smth*3;
+	int zero = smth;
     }
 }
+//second user
