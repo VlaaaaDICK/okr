@@ -4,5 +4,6 @@ public class GreetingsWorld {
         System.out.println("I'm so proud of this community!");
         System.out.println("third line");
 	System.out.println("another third line");
+	int smth = 0;
     }
 }
