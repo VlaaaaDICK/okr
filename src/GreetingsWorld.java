@@ -7,5 +7,6 @@ public class GreetingsWorld {
         System.out.println(x);
         int y=11;
         System.out.println(x*y);
+        System.out.println("First try to push on Github");
     }
 }
