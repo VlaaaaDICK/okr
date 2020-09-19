@@ -7,5 +7,6 @@ public class GreetingsWorld {
         System.out.println("Line in new branch");
         System.out.println("smth");
 	    int smth = 0;
+	int anything = smth*3;
     }
 }
