@@ -9,6 +9,7 @@ public class GreetingsWorld {
 	    int smth = 0;
 	int anything = smth*3;
 	int zero = smth;
+	String Zero = "All Hail Britannia!!!";
     }
 }
-//second user
+// version for both users
