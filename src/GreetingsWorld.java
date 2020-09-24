@@ -10,6 +10,7 @@ public class GreetingsWorld {
 	int anything = smth*3;
 	int zero = smth;
 	String Zero = "All Hail Britannia!!!";
+	int asd = 123;
     }
 }
 // version for both users
